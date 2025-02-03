@@ -19,7 +19,7 @@ tracing = "0.1.41"
 tokio-stream = "0.1.17"
 home = "0.5.11"
 hex = "0.4.3"
-rand = "0.8.5"
+rand = "0.9.0"
 sysinfo = "0.33.1"
 
 [dev-dependencies]
