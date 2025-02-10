@@ -14,7 +14,7 @@ eyre = { version = "0.6.12", default-features = false, features = [
   "track-caller",
 ] }
 serde = { version = "1.0.217", features = ["derive"] }
-toml = "0.8.19"
+toml = "0.8.20"
 tracing = "0.1.41"
 tokio-stream = "0.1.17"
 home = "0.5.11"
